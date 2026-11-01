@@ -1,0 +1,5 @@
+# compiled binary — don't commit build output
+webserver.exe
+*.exe
+*.o
+*.obj
